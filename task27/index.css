@@ -1,0 +1,482 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.a{
+	height: 1500px;
+	width: 1300;
+	/*background-image: url('images/cc.avif');*/
+	background-color: white;
+}
+.b{
+	height: 500px;
+	width: 1000px;
+	background-image: url('images/boat.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 180px;
+}
+.c{
+	font-size: 40px;
+	color: white;
+    padding-top: 250px;
+    padding-left: 100px;
+}
+.d{
+	font-size: 20px;
+	color:white;
+	padding-top: 30px;
+     padding-left: 50px;
+}
+.e{
+	height: 400px;
+	width: 1000;
+	background-color: white;
+	position: relative;
+}
+
+.f{
+	height: 400px;
+	width: 200px;
+	float: left;
+	background-color: gray;
+	margin-left: 300px;
+
+}
+.g{
+	height: 400px;
+	width: 200px;
+	float: left;
+	background-color:gray;
+	
+
+}
+img{
+	height: 200px;
+	width: 200px;
+}
+h1{
+	color:white;
+	font-size: 20px;
+}
+p{
+	font-size: 12px;
+	color: white;
+}
+h3{
+	font-size: 15px;
+	color: white;
+
+}
+.h{
+	height: 500px;
+	width: 1200px;
+	background-color: white;
+	margin-left: 100px;
+	
+}
+.im{
+	height: 450px;
+	width: 300px;
+}
+.i{
+	height: 500px;
+	width: 300px;
+	background-color:white;
+	float: left;
+	margin-left: 180px;
+	
+}
+
+.j{
+	height: 500px;
+	width: 300px;
+	background-color:white;
+	float: left;
+}
+.k{
+	height: 500px;
+	width: 300px;
+	background-color:white;
+	float: left;
+}
+.l{
+	font-size: 30px;
+	color: black;
+	padding-top: 70px;
+	padding-left: 100px;
+}
+.m{
+	padding-right: 80px;
+	font-size: 15px;
+	padding-top: 50px;
+	color: black;
+}
+.n{
+	height: 50px;
+	width: 50px;
+	background-color: orange;
+	margin-left: 150px;
+	margin-top: 50px;
+}
+.o{
+	height: 400px;
+	width: 1000px;
+	background-color: pink;
+	background-image: url('images/roads.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 100px;
+	margin-bottom: 100px;
+
+}
+.p{
+	font-size: 20px;
+	padding-right: 80px;
+	padding-left: 70px;
+	padding-top: 20px;
+}
+.q{
+	font-size: 15px;
+	padding-left: 80px;
+	padding-top: 20px;
+}
+.r{
+	font-size: 15px;
+	padding-top:100px;
+	padding-left: 500px
+	
+}
+.s{
+	font-size: 15px;
+	background-color: white;
+	margin-left: 500px;
+}
+.t{
+	height: 500px;
+	width: 1000px;
+	background-color: red;
+	margin-left: 100px;
+}
+.u{
+	height: 450px;
+	width: 1000px;
+	background-color:pink;
+
+}
+.v{
+	height: 50px;
+	width: 1000px;
+	background-color:orange;
+
+}
+.w{
+	height: 450px;
+	width: 500px;
+	background-color:white;
+	float: left;
+
+
+}
+.x{
+	height: 450px;
+	width: 500px;
+	background-color:white;
+	float: right;
+
+}
+.y{
+	height: 200px;
+	width: 500px;
+	background-color:orange;
+	float: right;
+	position: relative;
+	top:70px;
+	right: 200px;
+
+}
+.z{
+	height: 250px;
+	width: 500px;
+	background-color:white;
+	float: right;
+
+}
+.ab{
+	height: 400px;
+	width: 350px;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+.bc{
+	font-size: 35px;
+	color: white;
+	padding-left: 150px;
+	padding-top: 10px;
+}
+.cd{
+	font-size: 20px;
+	color: black;
+	margin-right: 100px;
+	margin-top: 100px;
+}
+.de{
+	height: 500px;
+	width: 1000px;
+	background-color:pink;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.ef{
+	height: 400px;
+	width: 1000px;
+	background-color:orange;
+	
+}
+.fg{
+	height: 100px;
+	width: 1000px;
+	background-color:black;
+	
+}
+
+.hi{
+	height: 400px;
+	width: 500px;
+	background-color:orange;
+	float:left ;
+
+}
+.ij{
+	height: 400px;
+	width: 500px;
+	background-color:orange;
+	float:right ;
+
+}
+.jk{
+	height: 120px;
+	width: 450px;
+	background-color:white;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top:20px;
+	right:100px;
+}
+.kl{
+	height: 120px;
+	width: 450px;
+	background-color:white;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top:20px;
+	right:100px;
+}
+.lm{
+	height: 120px;
+	width: 450px;
+	background-color:white;
+	margin: 10px 10px 10px 10px;
+	position: relative;
+	top:20px;
+	right:100px;
+}
+.mn{
+	height: 480px;
+	width: 550px;
+	margin-left: 30px;
+}
+.no{
+	font-size: 30px;
+	padding-left: 10px;
+}
+.op{
+	font-size: 20px;
+	color: black;
+}
+.pq{
+	height: 500px;
+	width: 1000px;
+	background-color: pink;
+	margin-left: 100px;
+
+}
+.rs{
+	height: 500px;
+	width: 500px;
+	background-color: green;
+	float: left;
+}
+.st{
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	float: right;
+}
+.tu{
+	height: 200px;
+	width: 500px;
+	background-color: kakhi;
+}
+.uv{
+	height: 300px;
+	width: 500px;
+	background-color:white;
+
+}
+.vw{
+	height: 200px;
+	width: 250px;
+	background-color:skyblue;
+	float: left;
+
+}
+.wx{
+	height: 200px;
+	width: 250px;
+	background-color:white;
+	float: right;
+
+}
+.xy{
+	height: 200px;
+	width: 250px;
+}
+.yz{
+	font-size: 30px;
+	color: black;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.zy{
+	font-size: 15px;
+	color: black;
+}
+.xz{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+.az{
+	height: 250px;
+	width: 450px;
+	margin-left: 20px;
+	margin-right: 30px;
+	margin-top:30px ;
+}
+.bz{
+	height: 480px;
+	width: 100px;
+	background-color: orange;
+	margin-left: 200px;
+	margin-top: 10px;
+}
+.cz{
+	height: 180px;
+	width: 250px;
+	position: relative;
+	top: 70px;
+	right: 80px;
+	background-color: orange;
+}
+.dz{
+	height: 30px;
+	width: 1000px;
+	background-color: black;
+	margin-left: 100px;
+
+}
+.ez{
+	height: 500px;
+	width: 1000px;
+	background-color: pink;
+	margin-left: 100px;
+	margin-top: 40px;
+
+}
+.ez{
+	height: 500px;
+	width: 1000px;
+	background-image: url('images/city1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.fz{
+	height: 500px;
+	width: 500px;
+	float: left;
+}
+.gz{
+
+	height: 500px;
+	width: 500px;
+	float: right;
+
+}
+.hz{
+	font-size: 30px;
+	color: white;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+.iz{
+	font-size: 15px;
+	color: white;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.jz{
+	font-size: 25px;
+	color: white;
+	background-color: black;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.kz{
+	font-size: 20px;
+	color: white;
+	padding-bottom: 30px;
+}
+.lz{
+	font-size: 20px;
+	color: white;
+	margin-left: 120px;
+	padding-top: 30px;
+}
+.nz{
+	margin-left: 17px;
+}
+.oz{
+	width: 400px;
+	height: 20px;
+	text-align:left ;
+}
+.pz{
+	width: 400px;
+	height: 80px;
+	text-align:left ;
+	text-align: top;
+}
+.qz{
+	color: black;
+
+	font-size: 20px;
+}
+.sr{
+	height: 100px;
+    width: 1000px;
+	margin-left: 100px;
+	background-color: gray;
+}
+.ra{
+	height: 20px;
+    width: 1000px;
+	margin-left: 100px;
+	background-color: gray;
+}
+u{
+	color: white;
+
+}
